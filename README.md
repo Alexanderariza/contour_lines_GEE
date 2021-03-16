@@ -11,4 +11,6 @@ Contour lines are the most distinctive feature of a topographic map. Contour lin
 
 **Google Earth Engine** is a platform for scientific analysis and visualization of geospatial data sets, for academic, non-profit, commercial and government users. Earth Engine hosts satellite images and stores them in a public data archive that includes historical images of the Earth dating back more than forty years. The Google Earth Engine API provides a library of functions that can generate level lines from the global digital models available from the [**ALOS**](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/index.htm) and [**STRM**](https://www2.jpl.nasa.gov/srtm/) projects.
 
-Here you will find the complete code: [link](src='./img/3d_plan.png')
+Here you will find the complete code: [link](src='./JS/countour_lines_ALOS_STRM.js')
+
+https://github.com/Alexanderariza/contour_lines_GEE/blob/main/JS/countour_lines_ALOS_STRM.js
